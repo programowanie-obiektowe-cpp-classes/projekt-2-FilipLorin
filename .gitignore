@@ -34,3 +34,12 @@
 # Build directories
 build/**/*
 out/**/*
+
+# CMake stuff
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Binary
+cpp-project
