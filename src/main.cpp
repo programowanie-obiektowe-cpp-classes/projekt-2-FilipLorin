@@ -1,6 +1,7 @@
-#include "PrintHello.hpp"
+#include "AoC24-01-2.cpp"
 
 int main()
 {
-    printHello();
+    day01_2();
+    return 0;
 }
