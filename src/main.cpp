@@ -1,7 +1,7 @@
-#include "AoC24-05-1.cpp"
+#include "AoC24-05-2.cpp"
 
 int main()
 {
-    day05_1();
+    day05_2();
     return 0;
 }
